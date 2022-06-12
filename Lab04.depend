@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1655070018 source:c:\users\Ярослав\desktop\Программирование\2  Семестр\lab04\histogram.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	<string>
+	"histogram.h"
+
+1655070158 c:\users\Ярослав\desktop\Программирование\2  Семестр\lab04\histogram.h
+	<vector>
+	<iostream>
+	<math.h>
+
+1655070072 source:c:\users\Ярослав\desktop\Программирование\2  Семестр\lab04\svg.cpp
+	"svg.h"
+	<iostream>
+	<sstream>
+	<string>
+	<winsock.h>
+	<windows.h>
+
+1655070084 c:\users\Ярослав\desktop\Программирование\2  Семестр\lab04\svg.h
+	<iostream>
+	<vector>
+	<math.h>
+
