@@ -103,7 +103,7 @@ main(int argc, char* argv[])
         }
         if (URL_position == 0)
         {
-            cout << "Incorrect input. URL not founded.";
+            cerr << "Incorrect input. URL not found.";
             return 0;
         }
         input = download(argv[URL_position]);
@@ -121,7 +121,7 @@ main(int argc, char* argv[])
             }
             else
             {
-                cout << "Incorrect input. Example: Lab04.exe -generate 10 http://... or Lab04.exe http://... -generate 10.";
+                cerr << "Incorrect input. Example: Lab04.exe -generate 10 http://... or Lab04.exe http://... -generate 10.";
                 return 0;
             }
     }
