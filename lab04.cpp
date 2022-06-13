@@ -71,7 +71,44 @@ download(const string& address) {
 int
 main(int argc, char* argv[])
 {
-    Input input;
+
+Input input;
+
+if (argc > 2)
+   {
+       size_t generator;
+       Input input2;
+    string option = "-generate";
+      for (int i=0; i<argc; i++)
+      {
+        string t = argv[i];
+         if (option==t)
+            generator =atoi (argv[i+1]);
+      }
+      vector <double> num;
+      //double[] nums = new double[generator];
+      //delete [] nums;
+      for(int j=0; j<generator; j++)
+      {
+        //num[j] = j;
+        double value;
+        value = rand() % 3 +3;
+      //  cout << value << "\n";
+        input2.numbers.push_back(value);
+      }
+      input2.bin_count = 3;
+      input2.number_count = generator;
+      cout << input2.number_count << "\n" ;
+      cout << input2.bin_count << "\n";
+      for(int i =0; i < generator; i++)
+      { cout << input2.numbers[i] << " ";
+
+      }
+ return 0;
+
+
+
+}
 
     if (argc > 1)
     {
