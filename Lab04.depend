@@ -24,3 +24,59 @@
 	<vector>
 	<math.h>
 
+1655151813 source:c:\users\Ярослав\desktop\Программирование\2  Семестр\lab04\lab04.cpp
+	<sstream>
+	<string>
+	<iostream>
+	<vector>
+	<math.h>
+	<winsock2.h>
+	<windows.h>
+	"histogram.h"
+	"svg.h"
+	<curl/curl.h>
+
+1650860892 c:\users\Ярослав\desktop\Программирование\2  Семестр\lab04\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"typecheck-gcc.h"
+
+1651029098 c:\users\Ярослав\desktop\Программирование\2  Семестр\lab04\curl\include\curl\curlver.h
+
+1650860892 c:\users\Ярослав\desktop\Программирование\2  Семестр\lab04\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1650525948 c:\users\Ярослав\desktop\Программирование\2  Семестр\lab04\curl\include\curl\easy.h
+
+1650525948 c:\users\Ярослав\desktop\Программирование\2  Семестр\lab04\curl\include\curl\multi.h
+	"curl.h"
+
+1650525948 c:\users\Ярослав\desktop\Программирование\2  Семестр\lab04\curl\include\curl\urlapi.h
+	"curl.h"
+
+1650860892 c:\users\Ярослав\desktop\Программирование\2  Семестр\lab04\curl\include\curl\options.h
+
+1650860892 c:\users\Ярослав\desktop\Программирование\2  Семестр\lab04\curl\include\curl\header.h
+
+1650525948 c:\users\Ярослав\desktop\Программирование\2  Семестр\lab04\curl\include\curl\typecheck-gcc.h
+
